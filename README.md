@@ -34,6 +34,6 @@ Command to Run
     
 ## Demo
 
-will be updated soon....
+https://capcha-generator-bm9x.vercel.app/
 
 
